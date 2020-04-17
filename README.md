@@ -10,6 +10,6 @@ I created a script to predict the categorie of 1626 flowers downloaded from the 
 ![Output GIF](https://github.com/Miske1996/Flowers_Classifier/blob/master/read.gif)
 
 ## Dependencies
--Fastai
--Pytorch
--OpenCv
+- Fastai
+- Pytorch
+- OpenCv
