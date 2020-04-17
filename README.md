@@ -11,6 +11,6 @@ I created a script to predict the categorie of 1626 flowers downloaded from the 
 
 ##Dependencies
 
-1-Fastai
-2-Pytorch
-3-OpenCv
+-Fastai
+-Pytorch
+-OpenCv
