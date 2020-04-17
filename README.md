@@ -9,8 +9,7 @@ I created a script to predict the categorie of 1626 flowers downloaded from the 
 # Output
 ![Output GIF](https://github.com/Miske1996/Flowers_Classifier/blob/master/read.gif)
 
-##Dependencies
-
+## Dependencies
 -Fastai
 -Pytorch
 -OpenCv
